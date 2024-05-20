@@ -22,6 +22,6 @@ The parents in Brazil are taught to take care of their kids, and make them their
 
 Hopefully, with time, these nightmares will be fixed, whether by private foundations, the government, or some other force, this will be a better place with time.
 
-![The next Rembrandt](./assets/img/posts/20210420/village-in-brazil.jpg)
+![The next Rembrandt](./assets/img/posts/20210420/village-in-brazil.jpeg)
 <small>[The Littoral Society](https://www.littoralsociety.org/blog/shorebird-expedition-brazil-investigating-the-plight-of-shorebirds-and-rural-people) shows a village in Brazil.</small>
 
