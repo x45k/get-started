@@ -7,16 +7,14 @@ date: 2021-04-20
 img: posts/20210420/photo-1483729558449-99ef09a8c325-brazil.avif
 tags: [Brazil]
 category: opinion
-author: Armando Maynez
+author: Me
 description: "All about Brazil!"
 ---
-Recently I was [reading an article](https://www.rollingstone.com/music/music-features/nirvana-kurt-cobain-ai-song-1146444/) about a cool project that intends to have a neural network create songs of the late club of the 27 (artists that have tragically died at age 27 or near, and in the height of their respective careers), artists such as Amy Winehouse, Jimmy Hendrix, Curt Cobain and Jim Morrison.
+Recently, I had a school project which requires me to make this so uh here I am.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tjzOzuKQhSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The project is about Brazil, as you read beforehand.
 
-The project was created by [Over the Bridge](https://overthebridge.org), an organization dedicated to increase awareness on mental health and substance abuse in the music industry, trying to denormalize and remove the glamour around such illnesses within the music community.
-
-They are using Google's [Magenta](https://magenta.tensorflow.org), which is a neural network that precisely was conceived to explore the role of machine learning within the creative process. Magenta has been used to create a brand new "Beatles" song or even there was a band that [used it to write a full album](https://arstechnica.com/gaming/2019/08/yachts-chain-tripping-is-a-new-landmark-for-ai-music-an-album-that-doesnt-suck/) in 2019.
+I have a couple pieces of information about brazil for you. Starting off, there is not the money to afford common day luxuries
 
 So, while reading the article, my immediate thought was: who owns the copyright of these new songs?
 
