@@ -12,52 +12,52 @@ mathjax: yes
 ---
 There are a couple spectacular place in America, with each being unique. Some have more visitors than others, some don't. 25 unique places in America with a unique hashtag include:
 
-**Skigit Valley, Washington | #tulips**
+Skigit Valley, Washington | #tulips
 
-**Nepali Coast, Hawaii | #beautifulcoastline**
+Nepali Coast, Hawaii | #beautifulcoastline
 
-**Lake Taho, California | #lake**
+Lake Taho, California | #lake
 
-**Grand Prismatic Spring, Wyoming | #hotspring**
+Grand Prismatic Spring, Wyoming | #hotspring
 
-**Northern Lights, Alaska | #sky**
+Northern Lights, Alaska | #sky
 
-**Yosemite Valley | #valley**
+Yosemite Valley | #valley
 
-**Horseshoe Bend, Arizona | #river**
+Horseshoe Bend, Arizona | #river
 
-**Badlands National Park, South Dakota | #mountains**
+Badlands National Park, South Dakota | #mountains
 
-**Haiku Stairs, Hawaii | #height**
+Haiku Stairs, Hawaii | #height
 
-**Glacier National Park, Montana | #glaciers**
+Glacier National Park, Montana | #glaciers
 
-**Golden Gate Bridge, California | #bridge**
+Golden Gate Bridge, California | #bridge
 
-**Grand Canyon, Arizona | #canyon**
+Grand Canyon, Arizona | #canyon
 
-**Thor's Hammer, Utah | #desert**
+Thor's Hammer, Utah | #desert
 
-**Devil's Tower, Wyoming | #monument**
+Devil's Tower, Wyoming | #monument
 
-**Palouse Falls, Washington | #falls**
+Palouse Falls, Washington | #falls
 
-**Sequoia National Park, California | #trees**
+Sequoia National Park, California | #trees
 
-**Thor's Well, Oregon | #water**
+Thor's Well, Oregon | #water
 
-**Niagra Falls, New York | #waterfall**
+Niagra Falls, New York | #waterfall
 
-**Smoky Mountains, North Carolina | #fog**
+Smoky Mountains, North Carolina | #fog
 
-**Hamilton Pool, Texas | #pool**
+Hamilton Pool, Texas | #pool
 
-**Zion National Park, Utah | #deep**
+Zion National Park, Utah | #deep
 
-**Maroon Bells, Colorado | #stayaway**
+Maroon Bells, Colorado | #stayaway
 
-**Antelope Canyon, Arizona | #desertcanyon**
+Antelope Canyon, Arizona | #desertcanyon
 
-**Waipio Valley, Hawaii | #hardtogetto**
+Waipio Valley, Hawaii | #hardtogetto
 
-**Grand Teton National Park, Wyoming | #snowmountains**
+Grand Teton National Park, Wyoming | #snowmountains
