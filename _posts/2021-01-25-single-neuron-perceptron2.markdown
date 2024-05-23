@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title:  Mexico
-date:   2022-01-25 13:32:20 -0600
+date:   2019-01-25 13:32:20 -0600
 description: All about Mexico!
 img: posts/20210125/photo-1512813195386-6cf811ad3542.avif
 tags: [mexico]
